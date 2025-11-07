@@ -1,8 +1,8 @@
 # Cache Demote for Fast Eviction Set Construction and Page-Table Attribute Leakage
 
 ## Overview
-This repository contains artifacts for our paper investigating the security implications of Intel’s `cldemote` ISA extension.  
-We show that `cldemote` can be exploited for (1) efficiently constructing eviction sets for non-inclusive last-level caches, and (2) revealing page-table attributes (including TLB state, permission bits, and the page-table level where translation terminates).
+This repository contains artifacts for our paper, which investigates the security implications of Intel’s `cldemote` ISA extension.  
+We show that `cldemote` can be exploited for (1) efficiently constructing eviction sets for non-inclusive last-level caches, and (2) revealing page table attributes (including TLB state, permission bits, and the page table level where translation terminates).
 
 ---
 
@@ -13,7 +13,7 @@ We show that `cldemote` can be exploited for (1) efficiently constructing evicti
 ## Experimental setup
 
 - **Processors:** Intel 4th Gen Xeon Scalable Processors (Sapphire Rapids)  
-    - `cldemote` is available on Sapphire Rapids, Emerald Rapids, Granite Rapids and Sierra Forest.
+    - `cldemote` is available on Sapphire Rapids, Emerald Rapids, Granite Rapids, and Sierra Forest.
 - **OS / Kernel:** Ubuntu 24.04, Linux kernel 6.8.0-38
 
 ---
@@ -29,13 +29,13 @@ We compare it with the helper thread-based method under two eviction-set constru
 
 [2] Zhao et al. “Last-level cache side channel attacks are feasible in the modern public cloud.” ASPLOS 2024.
 
-## Demo #2: Page-table attribute leakage
+## Demo #2: Page table attribute leakage
 
-- `page_table_attribute_leakage/` — a demo for leaking page-table attributes.
+- `page_table_attribute_leakage/` — a demo for leaking page table attributes.
 
-This demo leaks page-table attributes such as TLB state, permission bits, and the page-table level where address translation terminates.  
-This attack shows that an unprivileged attacker can infer page-table attributes of the kernel address space using the `cldemote` instruction.
+This demo leaks page table attributes such as TLB state, permission bits, and the page table level where address translation terminates.  
+This attack shows that an unprivileged attacker can infer page table attributes of the kernel address space using the `cldemote` instruction.
 
 ## Disclaimer
-This project is for educational and research purposes only. Use of this software to attack targets without prior mutual consent is illegal. The developer is not responsible for any damage caused by misuse of this exploit.
+This project is for educational and research purposes only. The use of this software to attack targets without prior mutual consent is strictly prohibited and illegal. The developer is not responsible for any damage caused by misuse of this exploit.
 
