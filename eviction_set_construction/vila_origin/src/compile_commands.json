@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/cache_param.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/cache_param.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/cache_param.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/cache_param.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/evchain.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/evchain.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/evchain.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/evchain.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/evset.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/evset.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/evset.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/evset.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/helper_thread.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/helper_thread.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/helper_thread.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/helper_thread.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/latency.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/latency.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/latency.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/latency.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/monitor.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/monitor.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/monitor.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/monitor.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/oracle_user.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/oracle_user.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/oracle_user.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/oracle_user.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/cache",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/CACHE.dir/osc.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/osc.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/cache/osc.c",
+  "output": "libs/cache/CMakeFiles/CACHE.dir/osc.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/pmu",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/PMU.dir/intel/cha_pmon.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/pmu/intel/cha_pmon.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/pmu/intel/cha_pmon.c",
+  "output": "libs/pmu/CMakeFiles/PMU.dir/intel/cha_pmon.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/libs/pmu",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/PMU.dir/intel/uncore_pmon.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/pmu/intel/uncore_pmon.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/libs/pmu/intel/uncore_pmon.c",
+  "output": "libs/pmu/CMakeFiles/PMU.dir/intel/uncore_pmon.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/src",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/osc-single-evset.dir/osc-single-evset.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-single-evset.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-single-evset.c",
+  "output": "src/CMakeFiles/osc-single-evset.dir/osc-single-evset.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/src",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/osc-multi-evset.dir/osc-multi-evset.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-multi-evset.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-multi-evset.c",
+  "output": "src/CMakeFiles/osc-multi-evset.dir/osc-multi-evset.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/src",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/osc-activity.dir/osc-activity.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-activity.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-activity.c",
+  "output": "src/CMakeFiles/osc-activity.dir/osc-activity.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/src",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/osc-covert.dir/osc-covert.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-covert.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/osc-covert.c",
+  "output": "src/CMakeFiles/osc-covert.dir/osc-covert.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/test_bitwise.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_bitwise.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_bitwise.c",
+  "output": "tests/CMakeFiles/unittest.dir/test_bitwise.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/test_cache_latency.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_cache_latency.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_cache_latency.c",
+  "output": "tests/CMakeFiles/unittest.dir/test_cache_latency.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/test_evcands.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evcands.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evcands.c",
+  "output": "tests/CMakeFiles/unittest.dir/test_evcands.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/test_evchain.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evchain.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evchain.c",
+  "output": "tests/CMakeFiles/unittest.dir/test_evchain.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/test_evset.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evset.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/test_evset.c",
+  "output": "tests/CMakeFiles/unittest.dir/test_evset.c.o"
+},
+{
+  "directory": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/src/tests",
+  "command": "/usr/bin/cc -DICELAKE -DPTEDITOR -D_GNU_SOURCE -I/home/csl/CLDEMOTE/A3_Eviction/vila_origin/include -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -o CMakeFiles/unittest.dir/tests.c.o -c /home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/tests.c",
+  "file": "/home/csl/CLDEMOTE/A3_Eviction/vila_origin/tests/tests.c",
+  "output": "tests/CMakeFiles/unittest.dir/tests.c.o"
+}
+]

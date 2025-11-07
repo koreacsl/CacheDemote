@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libPMU.a CMakeFiles/PMU.dir/intel/cha_pmon.c.o CMakeFiles/PMU.dir/intel/uncore_pmon.c.o
+/usr/bin/ranlib ../../libPMU.a

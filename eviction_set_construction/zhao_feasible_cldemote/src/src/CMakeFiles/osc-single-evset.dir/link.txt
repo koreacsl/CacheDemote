@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99 -g -Wall -O1 -Wno-unknown-pragmas -Wno-unused-function -rdynamic "CMakeFiles/osc-single-evset.dir/osc-single-evset.c.o" -o ../osc-single-evset  ../libCACHE.a -lm -lpthread ../libPMU.a 

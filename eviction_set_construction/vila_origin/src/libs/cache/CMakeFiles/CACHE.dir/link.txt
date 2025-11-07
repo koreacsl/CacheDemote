@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libCACHE.a CMakeFiles/CACHE.dir/cache_param.c.o CMakeFiles/CACHE.dir/evchain.c.o CMakeFiles/CACHE.dir/evset.c.o CMakeFiles/CACHE.dir/helper_thread.c.o CMakeFiles/CACHE.dir/latency.c.o CMakeFiles/CACHE.dir/monitor.c.o CMakeFiles/CACHE.dir/oracle_user.c.o CMakeFiles/CACHE.dir/osc.c.o
+/usr/bin/ranlib ../../libCACHE.a
